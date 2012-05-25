@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxUIEvents", "RxUIEvents\RxUIEvents.csproj", "{B59A0CEE-3F14-4CC4-8835-845024C3C3CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxWindowsForms", "RxWindowsForms\RxWindowsForms.csproj", "{F39B4A73-0574-4A2C-B042-2F316C27DB19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B59A0CEE-3F14-4CC4-8835-845024C3C3CA}.Debug|x86.ActiveCfg = Debug|x86
+		{B59A0CEE-3F14-4CC4-8835-845024C3C3CA}.Debug|x86.Build.0 = Debug|x86
+		{B59A0CEE-3F14-4CC4-8835-845024C3C3CA}.Release|x86.ActiveCfg = Release|x86
+		{B59A0CEE-3F14-4CC4-8835-845024C3C3CA}.Release|x86.Build.0 = Release|x86
+		{F39B4A73-0574-4A2C-B042-2F316C27DB19}.Debug|x86.ActiveCfg = Debug|x86
+		{F39B4A73-0574-4A2C-B042-2F316C27DB19}.Debug|x86.Build.0 = Debug|x86
+		{F39B4A73-0574-4A2C-B042-2F316C27DB19}.Release|x86.ActiveCfg = Release|x86
+		{F39B4A73-0574-4A2C-B042-2F316C27DB19}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
